@@ -26,5 +26,31 @@ Structured programming
 Functional programming
 *Java Scripting (Multi)
 
+IDENTIFIERS:
+Width=100
+height=5*9
+Width*height
+OUP:4500
+
+tamil,english,maths=100,90,80
+tamil+english+maths
+OUP:270
+
+tamil=100
+tamil
+OUP:100
+tamil+_
+OUP:200
+tamil+_
+OUP:300
+tax=50000
+tax
+OUP:50000
+tamil+_
+OUP:50100
+
+இங்கு _ என்னா செய்திருக்கிறது என்று பார்த்தீர்களா?
+நாம் கடைசியாக எதை print 
+
 
 
